@@ -1,2 +1,2 @@
 # Retail-DB
-Interactive database with Pandas 
+Interactive database with Pandas.
